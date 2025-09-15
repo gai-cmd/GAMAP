@@ -1,0 +1,5 @@
+yamlroot: ./docs/
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
