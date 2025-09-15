@@ -1,1 +1,12 @@
 yarn add gamap
+
+
+---
+
+## 방법 2: 로컬 컴퓨터에서 작업 (개발자 추천)
+
+### 1. **저장소 클론**
+터미널/명령 프롬프트 열고:
+```bash
+git clone https://github.com/gai-cmd/GAMAP.git
+cd GAMAP
